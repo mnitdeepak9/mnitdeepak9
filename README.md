@@ -1,8 +1,8 @@
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/deepakgupta88/" target="_blank" rel="noreferrer">Deepak</a> 👋</h3>
 
-<h2 align="center">I'm a Sr. Software Development Engineer in Test (SDET) 💻, Having total 9+ Yeas of experience</h2>
+<h2 align="center">I'm a Sr. Software Development Engineer in Test (SDET) 💻, Having 9+ YeaRs of experience</h2>
 
-## 🔭 I'm currently working on below tech 
+## 🔭 Tech and Tools 
 
 - UI Testing Automation Framework
 - Java
