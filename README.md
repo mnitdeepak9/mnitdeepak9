@@ -1,4 +1,18 @@
-## Hi there 👋
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/deepakgupta88/" target="_blank" rel="noreferrer">Deepak</a> 👋</h3>
+
+<h2 align="center">I'm a Sr. Software Development Engineer in Test (SDET) 💻, Having total 9+ Yeas of experience</h2>
+
+## 🔭 I'm currently working on below tech 
+
+- UI Testing Automation Framework
+- Java
+- Cucumber
+- TestNG
+- Maven
+- Git
+- Github
+- Postman
+- Jenkins (CI/CD)
 
 <!--
 **mnitdeepak9/mnitdeepak9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
